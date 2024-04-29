@@ -24,6 +24,8 @@ testscores_tbl <- dbGetQuery(conn, "SELECT * FROM datascience_testscores")
 week13_tbl <- right_join(employees_tbl, testscores_tbl, by = "employee_id") %>% #right join on testscores to remove employees without a test score
   left_join(offices_tbl, by = join_by(city == office)) #left join to only take values from offices that match values in our newly combined employees and testscores data
 
+# write_csv(week13_tbl, "../out/week13.csv")
+
 # Analysis
 
 
