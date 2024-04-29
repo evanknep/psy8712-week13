@@ -1,0 +1,572 @@
+employee_id,performance_group,yrs_employed,manager_hire,group_size,concern_flag,mobile_flag,customers,high_hours_flag,transfers,reduced_schedule,city
+000af67b,Bottom,4.6,N,15,N,N,22,N,0,Y,Chicago
+003a9cff,Bottom,5.5,N,8,N,Y,16,Y,0,Y,Houston
+00bc8536,Middle,5.1,N,12,N,Y,24,Y,2,N,Chicago
+00be1442,Middle,4.7,N,11,N,Y,28,Y,0,Y,Chicago
+00d6fdfd,Bottom,4.2,N,11,N,N,28,Y,3,Y,Chicago
+0129f72f,Middle,4.8,N,15,N,N,30,Y,0,N,New York
+01462797,Middle,4.6,N,17,N,N,26,Y,3,N,New York
+01aa135f,Middle,5,N,15,N,N,22,Y,2,N,New York
+02cba29a,Middle,4.7,N,15,N,N,18,N,2,N,Toronto
+0390bb8b,Middle,4.1,N,10,N,N,14,N,2,N,New York
+03a8743a,Middle,5.4,N,9,N,Y,26,N,0,Y,Chicago
+040001a4,Top,5,N,8,N,N,22,Y,2,N,Toronto
+04311ecb,Middle,4.9,N,8,N,N,16,Y,0,N,Toronto
+044c241c,Middle,5.2,N,19,Y,N,26,Y,2,N,New York
+049733ad,Middle,4.7,N,11,N,N,26,Y,2,N,Toronto
+04bca1f7,Middle,4.1,N,13,N,N,20,N,0,N,New York
+04d0de08,Middle,4.4,N,11,N,Y,16,N,2,N,Toronto
+04de1f43,Middle,4.7,N,11,N,Y,22,N,0,N,Chicago
+065bef5c,Middle,4.6,N,10,N,N,22,N,0,N,Toronto
+06ac534e,Middle,4.4,N,10,N,N,20,Y,0,N,Toronto
+07e9e2c2,Middle,4.7,N,11,N,N,16,N,0,N,Toronto
+07eb21de,Middle,5.3,N,11,Y,Y,28,Y,3,N,Orlando
+07f79c30,Middle,4.5,N,14,N,N,22,Y,2,N,New York
+0a096c9c,Middle,4.2,N,12,N,N,24,N,0,Y,San Francisco
+0a52817d,Bottom,4.1,Y,11,N,N,22,Y,2,N,New York
+0a6e155a,Middle,4.6,N,11,N,N,20,Y,0,Y,Houston
+0b3f7c51,Top,3.8,N,20,N,N,16,N,2,N,New York
+0b5637d7,Middle,4.1,N,19,N,Y,24,Y,0,N,New York
+0ba1e858,Bottom,5.3,N,5,N,Y,18,N,2,Y,Toronto
+0bd3f3df,Middle,3.9,N,18,Y,N,24,N,2,Y,Houston
+0c6ec688,Top,4.2,N,10,N,N,20,N,0,Y,Chicago
+0c843034,Middle,4.3,N,11,N,Y,22,Y,2,Y,San Francisco
+0d0f885d,Middle,5.1,N,11,N,N,24,N,0,N,New York
+0d3fab51,Middle,4.7,N,11,N,Y,30,N,0,Y,Chicago
+0d7bb37c,Middle,4.1,N,10,N,N,16,Y,0,N,Toronto
+0dcd7810,Top,4.5,N,11,N,Y,18,N,0,N,Toronto
+0e51b4e7,Middle,4.6,N,10,N,N,22,N,0,N,New York
+0e5f7d11,Middle,4.7,N,11,N,Y,32,Y,2,N,Chicago
+0e7a60a8,Middle,4.2,N,10,N,N,24,Y,2,N,New York
+0e836902,Middle,5.2,N,12,N,N,24,N,2,N,New York
+0ee2cf84,Middle,4.4,N,7,N,Y,20,N,0,N,New York
+0f2319ae,Middle,3.9,N,11,N,N,12,N,0,N,Chicago
+0f2e5ec9,Bottom,5,N,9,N,Y,20,N,2,N,Toronto
+0f4d1cff,Top,4,N,14,N,Y,22,Y,3,Y,San Francisco
+0f78b6fd,Middle,5,N,11,Y,N,14,N,0,N,New York
+10aeb364,Middle,4.8,N,15,N,N,22,N,0,N,New York
+10c54f24,Middle,4.6,N,11,N,N,22,N,0,N,Toronto
+1149fc0d,Top,4.5,N,16,N,N,24,Y,0,N,New York
+115c7d85,Middle,4.7,N,13,N,N,14,N,0,Y,Chicago
+116b58cf,Bottom,5,N,10,N,N,18,N,0,Y,San Francisco
+1177eb06,Middle,4.6,N,13,N,Y,18,N,0,Y,San Francisco
+11c9971a,Middle,4.9,N,12,N,Y,20,N,2,Y,Orlando
+11e44cc7,Bottom,5.1,N,13,N,N,22,Y,0,N,Chicago
+11e61339,Middle,4.9,N,7,N,N,14,N,0,N,Toronto
+11e9ac6c,Top,4.1,N,8,N,N,20,N,0,N,Toronto
+12d9bf3a,Middle,4.2,N,10,N,N,22,Y,0,N,Toronto
+13eee288,Middle,5.3,N,11,N,N,16,N,2,N,New York
+141e6ecb,Middle,3.6,N,11,N,N,16,Y,0,N,Toronto
+14544b08,Middle,5,N,10,N,N,22,Y,0,N,New York
+149d37b2,Middle,5,N,12,N,N,22,Y,2,N,Toronto
+14a3d50d,Bottom,4.6,N,10,N,N,28,Y,0,N,Toronto
+14f5e806,Bottom,4.9,N,8,N,N,14,N,0,Y,San Francisco
+152259c9,Middle,4,N,9,N,Y,22,N,0,N,Toronto
+15995879,Middle,4.6,N,13,N,N,22,N,0,N,New York
+15a8065a,Middle,3.9,N,10,N,N,14,N,2,Y,Houston
+161c4d66,Middle,4.7,N,13,N,Y,26,N,2,Y,Orlando
+1623d0c9,Bottom,4.4,N,6,N,Y,28,Y,2,Y,San Francisco
+16b4eb7c,Bottom,4.5,N,11,N,Y,22,N,0,Y,Houston
+170eaabe,Middle,4.6,N,14,Y,N,24,N,2,N,New York
+17483a7c,Bottom,4.5,N,13,N,Y,22,N,0,Y,San Francisco
+177de4ed,Middle,5,N,13,N,N,30,N,2,N,Toronto
+17a4ee4b,Middle,5.5,N,10,Y,N,26,Y,2,N,New York
+18c20092,Middle,4.8,N,13,N,N,22,N,0,N,New York
+18f47db7,Bottom,4.7,N,10,N,N,18,N,0,N,Toronto
+1963f987,Bottom,4.5,N,12,N,Y,16,N,0,Y,Toronto
+198e1a78,Middle,4.4,N,10,N,N,10,N,0,N,Toronto
+1a150568,Middle,5.4,N,11,Y,Y,28,N,3,Y,San Francisco
+1ae8d25f,Middle,5.2,N,11,N,N,22,N,0,N,New York
+1b30e815,Middle,5.3,N,15,N,N,24,Y,0,N,Toronto
+1b32f3f5,Middle,3.9,N,11,N,N,14,N,0,N,Chicago
+1b6e0be9,Bottom,5,Y,7,Y,Y,22,Y,0,N,Toronto
+1bb4fc5e,Middle,4,N,13,N,N,28,N,5,N,New York
+1be5eccb,Bottom,4.4,N,11,N,N,12,Y,2,Y,San Francisco
+1c2e4596,Middle,4.9,N,9,Y,N,18,Y,0,Y,Houston
+1ccf7241,Middle,4.5,N,8,N,Y,18,Y,0,N,Toronto
+1dd5b8d0,Bottom,5.1,N,16,N,N,28,N,2,N,New York
+20320ac0,Bottom,4.6,N,11,Y,N,20,N,0,N,New York
+20a898a5,Middle,5,N,17,N,N,16,Y,0,N,New York
+20c1f2ab,Top,4.2,N,10,N,N,34,Y,0,N,New York
+212d0ccb,Middle,4.9,N,13,N,Y,20,N,0,Y,San Francisco
+2161245d,Middle,4.4,N,11,Y,Y,16,N,2,Y,Houston
+224e8e50,Middle,5,N,8,Y,Y,16,N,0,Y,San Francisco
+233e5f29,Middle,4.1,N,11,N,N,22,Y,2,Y,Houston
+239f57a2,Middle,5,N,13,N,N,28,Y,0,N,Toronto
+23aba68b,Middle,4.7,N,10,Y,Y,20,Y,0,N,Toronto
+2450d532,Middle,4,N,14,N,N,18,N,0,N,New York
+246b221c,Bottom,4.2,N,17,N,N,18,N,2,N,New York
+249a6c42,Middle,4.1,N,12,N,N,18,N,0,N,Toronto
+25d23a7c,Middle,4.1,N,12,N,N,18,Y,2,N,New York
+26e1942e,Middle,4.1,N,13,N,Y,18,N,0,N,Toronto
+26fec077,Middle,4.3,N,10,N,Y,24,N,2,N,Chicago
+272b93f1,Bottom,5.2,N,10,N,N,12,N,0,Y,Chicago
+27644867,Middle,4.5,N,10,N,Y,24,Y,3,Y,Orlando
+2831f170,Middle,4.9,N,9,N,N,28,Y,0,Y,San Francisco
+283cb5b2,Middle,4.7,N,14,N,N,22,N,0,N,Toronto
+28ca8384,Bottom,5.1,N,11,N,Y,24,N,3,Y,Orlando
+28faeb10,Bottom,5.1,N,10,N,Y,16,N,0,Y,San Francisco
+2aa74cd6,Bottom,5,N,11,N,N,16,Y,0,Y,New York
+2b450c6b,Middle,5,N,11,N,Y,20,N,0,Y,San Francisco
+2b65a8b7,Middle,4.4,N,15,N,N,20,N,0,N,New York
+2ba7657f,Top,4.9,N,10,N,Y,18,N,0,Y,Chicago
+2c218e8f,Middle,4.5,N,13,N,N,20,N,2,N,New York
+2cc30425,Bottom,4.8,N,8,Y,N,20,N,0,N,Toronto
+2d54740d,Middle,4.4,N,10,N,N,24,Y,0,Y,Orlando
+2d69d975,Top,4.1,N,10,N,N,18,N,0,Y,San Francisco
+2e0e1cee,Middle,5,N,10,N,N,14,N,0,N,New York
+2e91c3cf,Middle,5,N,8,N,Y,14,N,0,Y,San Francisco
+2ea241ec,Middle,4.5,N,8,N,N,24,N,0,N,Toronto
+2eaaf42c,Middle,4.6,N,11,N,N,22,N,2,Y,Chicago
+2f3c7c83,Middle,4.1,N,11,N,N,22,N,3,N,Toronto
+2f4312d0,Bottom,4.1,N,15,N,N,24,N,0,N,New York
+2f848ab0,Middle,4.5,N,11,N,N,22,N,0,N,New York
+2f8a425a,Middle,4.5,N,10,N,N,22,Y,0,N,Toronto
+2fef6027,Middle,4.7,N,8,N,N,18,Y,0,N,Toronto
+30192bf4,Middle,4.2,N,8,N,N,14,N,0,N,Chicago
+312581bc,Middle,4.1,N,10,N,N,16,N,0,N,New York
+3135ebd2,Middle,4.9,N,13,N,N,20,Y,3,N,Toronto
+314bc11c,Middle,4.3,N,13,Y,N,26,Y,5,N,New York
+325b71cd,Bottom,5,N,13,N,N,18,N,2,N,Toronto
+336361fc,Top,4.7,N,13,N,N,26,Y,0,N,New York
+33d05649,Top,3.7,N,11,N,Y,22,Y,0,N,New York
+340b1336,Bottom,4.8,N,12,N,N,16,N,2,N,Toronto
+3474567e,Middle,5,N,15,N,N,24,Y,0,N,New York
+35a6eceb,Bottom,4.6,N,10,N,N,22,Y,0,N,New York
+35c38582,Bottom,4.9,N,13,N,N,22,N,2,N,New York
+366b1d0f,Top,4.7,N,19,N,N,38,Y,2,N,New York
+3750c061,Middle,4.4,N,9,N,Y,20,N,0,N,Toronto
+386b9dad,Bottom,4.8,N,14,N,Y,36,Y,2,Y,San Francisco
+3870bb30,Top,4.2,N,11,N,N,20,Y,0,N,Toronto
+38df15ce,Middle,4.5,N,12,N,N,28,Y,0,Y,Orlando
+3a1e550d,Middle,4.3,N,6,N,N,16,N,0,N,New York
+3a3fed54,Middle,4.6,N,8,N,N,24,Y,0,N,New York
+3aec9b21,Middle,4.4,N,12,N,N,20,N,0,Y,San Francisco
+3b4dd5df,Middle,5,N,18,N,N,20,Y,2,N,New York
+3bffd4f8,Middle,4.3,N,13,N,N,20,N,2,N,New York
+3c2d45cc,Middle,5.1,N,11,N,N,22,Y,0,N,New York
+3c308b87,Middle,4.3,N,8,N,N,16,N,0,N,Toronto
+3c528414,Bottom,4.7,N,17,N,N,18,N,3,N,New York
+3c71e2ec,Middle,5.4,N,13,N,N,20,N,0,N,New York
+3d9e9752,Middle,4.9,N,10,N,N,16,N,0,N,New York
+3dc6ca19,Bottom,5.1,N,15,N,Y,20,N,2,N,Orlando
+3de78aa1,Bottom,5.2,N,10,N,N,18,N,2,Y,Chicago
+3e3edda6,Top,5,N,17,N,Y,24,N,0,N,New York
+3e8dbe4c,Bottom,5.1,N,11,N,N,16,N,0,Y,Chicago
+3ee66efc,Bottom,4,N,11,N,N,16,N,2,N,Toronto
+40e853ea,Middle,4.9,N,13,N,N,26,Y,0,N,Toronto
+41890e7a,Top,3.6,N,9,N,N,20,N,2,N,Chicago
+4222521e,Middle,5.7,N,18,Y,N,16,N,0,N,Toronto
+4397b678,Middle,4.8,N,13,N,N,20,N,0,N,Toronto
+43c1d8c2,Middle,4.4,N,15,N,N,20,Y,0,N,Toronto
+4427aff6,Middle,4,N,10,N,N,18,N,0,N,Toronto
+445bd5bb,Middle,5,N,11,N,N,22,Y,0,N,Toronto
+4487ca5f,Middle,5.4,N,20,Y,N,36,Y,2,N,Toronto
+4532e76f,Middle,4.6,N,9,Y,N,22,N,0,Y,Chicago
+46c39f61,Bottom,5,N,11,N,N,24,N,2,Y,San Francisco
+4778d76c,Middle,4.4,N,8,N,N,18,N,0,Y,Chicago
+47c9b35e,Top,6,N,15,Y,N,34,N,0,N,New York
+47d6fc9f,Bottom,4.8,N,12,N,N,18,N,0,N,New York
+48507fc0,Middle,4.4,N,17,N,N,18,N,0,N,Toronto
+49f49cc7,Middle,4.9,N,11,N,Y,16,N,2,Y,Houston
+49f4dc41,Top,3.7,N,11,N,N,16,N,0,N,New York
+4a9eb443,Middle,4.4,N,10,N,Y,26,N,0,N,Chicago
+4b934557,Middle,4.6,N,10,N,N,24,N,0,Y,Orlando
+4bd699d4,Middle,4.6,N,12,N,N,18,N,2,N,Toronto
+4c594b79,Top,4.2,N,11,N,N,18,Y,2,N,New York
+4c9b3876,Middle,4.6,N,9,Y,N,18,N,0,N,New York
+4d593345,Middle,4.5,N,6,N,N,22,N,0,N,Toronto
+4e8b206b,Bottom,4.9,N,13,N,Y,22,Y,2,Y,San Francisco
+4fa96bbd,Middle,5.1,N,15,N,N,22,Y,2,N,Toronto
+4ffffa9d,Middle,5.3,N,10,N,N,16,N,0,N,New York
+5046ef5b,Middle,4.6,N,9,N,N,20,N,0,N,Toronto
+50612e98,Bottom,4.4,N,16,N,N,40,Y,2,N,Toronto
+508d4855,Middle,5,N,11,N,N,22,N,2,N,Toronto
+51532894,Middle,5.2,N,13,N,Y,16,N,0,N,New York
+51623589,Middle,4.1,N,11,N,N,20,Y,0,Y,Toronto
+51b9f4c2,Bottom,2.8,Y,9,N,N,24,N,0,N,New York
+51e27cfe,Bottom,3.6,Y,8,N,N,16,N,0,N,New York
+51e801e4,Middle,4.9,N,12,N,Y,20,Y,0,N,Toronto
+52204196,Middle,5.2,N,11,N,N,16,N,0,Y,Chicago
+52b7c12e,Middle,4.6,N,11,Y,N,18,N,0,N,Toronto
+52fc4d27,Middle,4.8,N,7,N,N,14,N,0,N,New York
+538f99bc,Middle,4.7,N,11,N,N,22,N,0,N,New York
+53f52fd8,Bottom,4.3,N,11,N,N,24,N,2,N,Toronto
+54289dac,Middle,4.5,N,8,N,N,18,N,2,N,Toronto
+547584ac,Middle,4.6,N,11,N,N,20,Y,0,N,Chicago
+55007f0c,Middle,4.2,N,9,N,Y,26,N,0,N,Toronto
+551ba7ea,Middle,4.6,N,13,N,N,18,N,0,N,Toronto
+5700c368,Bottom,3.8,N,9,N,N,16,N,0,N,Toronto
+571c21ff,Bottom,5.2,N,8,N,N,16,N,0,Y,San Francisco
+5722f7d6,Bottom,4.5,N,8,N,N,18,Y,0,N,Toronto
+582e7062,Bottom,5,N,8,N,Y,16,N,2,Y,Houston
+586eb60d,Middle,4.3,N,11,N,N,18,N,0,N,Toronto
+589fcdd8,Top,3.8,N,14,N,Y,16,N,0,N,Toronto
+5a343b35,Middle,3.7,N,9,N,N,24,N,3,N,New York
+5ab4b656,Middle,4.6,N,14,N,N,20,Y,0,N,New York
+5acf99c0,Middle,4.9,N,17,N,N,20,Y,2,N,New York
+5ad93121,Top,4.4,N,11,N,N,26,Y,2,Y,San Francisco
+5b268514,Top,4.2,N,11,N,N,16,N,0,Y,Toronto
+5bc0968a,Middle,4.3,N,12,N,N,18,N,2,N,New York
+5bcb8806,Bottom,5,N,11,N,N,20,N,0,Y,San Francisco
+5bd15eec,Top,3.3,Y,11,N,N,16,N,0,Y,Houston
+5da9639e,Middle,4.1,N,15,N,N,20,Y,0,N,Toronto
+5f17a93b,Bottom,4.8,N,13,N,N,18,Y,2,N,Chicago
+5f32922b,Middle,3.9,N,13,N,N,20,N,0,N,New York
+602410d1,Middle,4,N,11,N,N,18,N,0,N,New York
+602ce2b1,Top,4,N,13,N,N,20,Y,0,Y,San Francisco
+60845764,Bottom,4.5,N,13,N,N,22,Y,0,N,New York
+610ece3e,Bottom,5.5,N,6,N,Y,20,Y,0,Y,Orlando
+616e7dc0,Middle,5.1,N,14,N,Y,22,Y,3,N,Toronto
+61a0762d,Middle,4.6,N,8,N,N,24,N,0,N,Toronto
+63496c55,Middle,5.3,N,11,N,Y,24,N,2,Y,San Francisco
+637e8a0f,Middle,4.2,N,13,N,N,34,Y,3,N,Toronto
+63934250,Middle,5,N,14,Y,N,20,N,2,N,New York
+63c5649d,Bottom,4.8,N,12,N,Y,14,N,2,N,Toronto
+642614af,Middle,5,N,9,Y,N,16,Y,2,N,Toronto
+64b4e375,Middle,4.4,N,12,N,N,26,Y,0,N,Toronto
+64c6833b,Middle,4.4,N,13,N,Y,16,N,2,N,Chicago
+64e3a1ba,Bottom,5.2,N,10,N,Y,22,Y,3,N,Toronto
+65a9dfdd,Bottom,4.5,N,8,N,Y,14,N,0,N,Toronto
+662f3d39,Middle,5,N,13,N,N,24,N,0,N,New York
+6640964f,Middle,4.7,N,15,N,N,24,Y,2,N,Toronto
+66534e07,Middle,5.1,N,11,N,N,20,Y,2,N,Toronto
+66810cc9,Middle,5,N,14,N,Y,24,Y,3,N,Toronto
+66b83b4b,Bottom,5.6,N,10,Y,N,22,N,0,Y,San Francisco
+683ba552,Top,3.7,N,9,N,N,22,Y,0,N,Toronto
+694626f7,Bottom,5.5,N,14,Y,Y,20,N,0,N,Toronto
+699e4d61,Middle,4.5,N,9,N,N,20,N,0,N,Toronto
+6ac38c5e,Middle,4.6,N,9,N,N,18,N,2,Y,San Francisco
+6b14f9f8,Middle,4.4,N,11,N,N,16,N,2,N,New York
+6b707925,Middle,4,N,11,N,Y,32,Y,2,Y,Toronto
+6c56cf27,Middle,4.4,N,13,N,N,16,N,2,N,Toronto
+6d1d3f94,Bottom,5,N,11,N,Y,26,N,2,Y,San Francisco
+6e43d0eb,Bottom,4.5,N,17,N,N,32,Y,0,N,New York
+6f37a436,Middle,5,N,18,N,Y,28,Y,2,N,Toronto
+6f40889c,Middle,4.8,N,13,N,N,18,N,0,N,New York
+6f6a15c3,Middle,4.9,N,14,N,Y,28,Y,3,N,Toronto
+6f706192,Middle,5,N,15,N,N,22,N,0,N,New York
+6fad20c6,Middle,5,N,9,N,N,20,Y,0,Y,San Francisco
+6fb92fa9,Bottom,5,N,15,N,Y,18,Y,2,N,Chicago
+6fe8b754,Top,4.9,N,15,Y,N,20,Y,0,N,Toronto
+6ffbce77,Top,3.7,N,13,N,N,22,Y,2,N,Toronto
+70028ff8,Middle,4,N,9,N,N,28,Y,0,N,New York
+705a7b97,Middle,4.5,N,20,N,N,30,Y,2,N,New York
+70d7c0fd,Bottom,4.9,Y,13,N,N,20,N,0,N,Toronto
+70ee73b9,Bottom,4.7,N,10,N,N,24,Y,0,N,Toronto
+71aa7b78,Middle,4.4,N,9,N,N,18,N,0,N,Toronto
+726895c8,Middle,5.1,N,15,N,N,26,Y,2,N,New York
+72a59199,Bottom,5,N,10,N,Y,30,Y,0,N,New York
+72c9ce58,Bottom,5.9,N,15,Y,N,22,N,0,N,Chicago
+72cd94a4,Bottom,4.8,N,6,N,N,18,N,2,N,Toronto
+72fd934c,Top,4,N,9,N,N,14,Y,0,N,New York
+737a170c,Middle,4.3,Y,15,N,N,26,N,2,Y,Orlando
+748f511e,Top,4.4,N,17,N,Y,30,Y,0,N,New York
+75b9faa4,Top,2,Y,7,N,N,16,N,0,N,Toronto
+75c641f3,Top,4.6,N,15,N,N,24,Y,2,N,New York
+75d6a015,Top,4.9,N,8,N,N,20,Y,0,N,Toronto
+76122084,Top,4.1,N,10,N,N,20,Y,0,N,Toronto
+773a3436,Middle,4.8,N,13,N,N,18,Y,2,N,New York
+77e0ae27,Middle,4.8,N,15,N,N,14,N,0,N,Toronto
+7853545e,Middle,5.1,N,10,N,N,18,Y,2,N,Toronto
+78be7b49,Middle,5,N,20,N,N,22,N,2,N,New York
+78c17ebb,Middle,4.2,N,6,N,N,14,N,0,N,Toronto
+79997a04,Top,4.3,N,17,N,N,32,Y,2,N,Toronto
+799ae284,Top,4.3,N,12,N,N,16,Y,0,N,Toronto
+7b40afe7,Bottom,5.3,N,10,N,N,16,N,2,Y,San Francisco
+7b5cfcfd,Bottom,3.4,N,11,Y,Y,22,N,2,N,Orlando
+7b869493,Middle,4,N,11,N,N,20,Y,2,N,Toronto
+7bf5373c,Middle,4.4,N,14,N,N,18,N,2,N,Toronto
+7c04d967,Middle,4.8,N,10,N,N,22,N,3,Y,New York
+7c2f19f9,Middle,4.3,N,10,N,N,26,N,2,Y,New York
+7cc6b046,Middle,4.1,N,13,N,N,26,N,2,N,New York
+7d8b89cf,Middle,4.8,N,13,Y,N,18,Y,0,N,New York
+7d8c51be,Middle,4.3,N,10,N,N,24,N,0,Y,Chicago
+7dd60ead,Middle,4.3,N,11,N,N,14,N,0,N,Toronto
+7dd7b85b,Middle,5,N,14,N,N,14,N,2,N,New York
+7dea4013,Middle,5,N,14,N,N,16,N,0,N,Chicago
+7e07a403,Top,5.4,N,12,N,N,16,N,0,N,Chicago
+7fbf320e,Top,4.6,N,14,N,N,16,N,0,N,New York
+809f2737,Middle,4.5,N,10,N,N,16,N,0,N,New York
+80daf581,Middle,4.1,N,8,N,Y,22,N,2,N,Chicago
+811859c9,Bottom,5.4,N,8,Y,N,18,N,0,N,Toronto
+8141ad3e,Bottom,4.5,N,9,N,N,18,Y,0,N,Toronto
+81e18689,Middle,4.3,N,13,Y,N,26,Y,2,N,Toronto
+8205a876,Middle,3,Y,9,N,N,22,Y,0,Y,San Francisco
+82bf75f4,Middle,4.8,N,15,N,N,22,N,0,Y,Toronto
+82eb5b29,Bottom,4.9,N,13,N,N,24,N,0,N,New York
+830d00c3,Middle,4.3,N,17,N,N,20,Y,0,N,New York
+8364dbb2,Middle,4.7,N,11,N,Y,16,N,0,N,Toronto
+83ac6952,Middle,4.8,N,12,N,N,22,Y,0,N,Toronto
+8476e4e6,Middle,5.1,N,18,N,N,26,N,2,N,New York
+84a9c3c5,Middle,4.2,Y,8,Y,N,16,N,0,N,Toronto
+84b62128,Bottom,4.5,N,12,N,N,22,N,3,N,Toronto
+85ce72be,Middle,4.3,N,11,N,N,20,N,0,Y,Houston
+86070f63,Middle,4.3,N,9,N,Y,14,Y,0,N,Toronto
+863a7a40,Middle,5,N,15,N,N,20,Y,0,N,Toronto
+865387d8,Bottom,4.8,N,11,Y,N,20,N,2,N,New York
+86b03698,Middle,5,Y,12,N,N,24,N,0,N,New York
+8769424d,Middle,4.6,N,13,N,N,26,N,0,N,New York
+886e43ea,Bottom,4.8,N,8,N,N,18,N,0,N,New York
+88bd2854,Bottom,5.2,N,11,N,N,18,Y,2,Y,San Francisco
+88c707b9,Middle,4.5,N,11,N,Y,22,N,3,Y,San Francisco
+88f67137,Middle,4.1,N,10,N,N,22,N,0,Y,Chicago
+8928d7a8,Middle,4.6,N,13,N,N,28,N,0,N,New York
+8948e057,Middle,5,N,10,N,N,34,Y,0,N,New York
+894979c7,Middle,4.9,N,8,N,N,18,N,0,N,New York
+8a2de222,Middle,4.7,N,12,N,N,28,N,0,N,Toronto
+8a473c59,Bottom,3,Y,10,N,N,24,Y,2,N,Toronto
+8aedd876,Middle,5.1,N,15,N,N,26,Y,0,N,New York
+8b64ec14,Middle,4.4,N,15,N,Y,20,Y,0,N,Chicago
+8c628dc8,Top,4.5,N,11,N,N,22,Y,0,N,New York
+8c86404d,Middle,4.5,N,16,N,Y,16,Y,0,N,New York
+8cba9ae4,Top,4.1,N,10,N,N,16,N,0,N,Toronto
+8ccbaff2,Middle,4.3,N,10,N,N,26,Y,2,N,Toronto
+8dd25315,Middle,5.1,N,13,N,N,32,Y,0,N,Toronto
+8e130c8f,Middle,4.3,N,12,N,N,22,N,0,Y,Houston
+8e9ede18,Middle,4.5,N,15,N,N,26,N,0,N,Toronto
+8efedced,Middle,4.9,N,10,N,N,12,N,0,Y,San Francisco
+8f65945d,Middle,4.6,N,11,N,N,22,N,0,N,New York
+9063ac73,Middle,4.7,N,15,N,Y,16,N,0,N,Toronto
+906abfc7,Middle,4.7,N,10,Y,Y,16,Y,0,Y,San Francisco
+90baa22b,Bottom,4.8,N,9,N,N,16,N,2,N,New York
+9123572e,Top,4,N,10,N,N,14,N,0,N,Toronto
+9134ff9c,Middle,5,N,11,N,N,18,N,2,Y,Chicago
+91881f0c,Bottom,4.8,N,5,N,Y,18,N,0,N,Toronto
+9210bf78,Bottom,5.1,N,13,N,Y,22,N,2,N,Chicago
+9274383d,Middle,5,N,17,N,N,20,Y,0,N,New York
+927c317d,Middle,5.2,N,11,Y,N,24,N,0,N,New York
+92c4acd3,Bottom,4.6,N,11,N,N,24,Y,2,Y,San Francisco
+93b6cfc1,Middle,4.7,N,11,N,N,16,N,2,N,Toronto
+9404cda9,Bottom,5.2,N,17,Y,N,20,N,3,Y,Houston
+948b1ace,Middle,4.4,N,12,N,N,18,N,0,N,New York
+94b28814,Bottom,4.2,N,13,N,Y,14,N,2,Y,San Francisco
+94fab2bb,Top,4.8,N,14,N,Y,26,Y,0,Y,San Francisco
+965ac95c,Bottom,4.6,N,10,N,N,18,N,0,N,Toronto
+96c21cb3,Bottom,4.6,N,10,N,Y,16,N,0,Y,Houston
+97793f7c,Middle,4.6,N,11,N,N,24,N,2,N,New York
+97c7c1b5,Middle,4.6,N,10,N,N,18,N,2,N,Toronto
+97ccc01d,Middle,5.2,N,12,N,Y,16,N,0,N,Chicago
+980d9b48,Middle,5,N,11,N,N,22,N,2,N,Toronto
+9817a11e,Top,4,N,12,N,N,18,Y,0,N,New York
+98780af0,Middle,4.5,Y,21,N,Y,26,Y,0,N,Toronto
+98f131d7,Middle,4.2,N,10,N,N,16,N,0,N,Toronto
+99084368,Top,4.8,Y,17,N,N,20,Y,0,N,New York
+99f78516,Bottom,2.9,Y,10,N,N,24,Y,0,N,Toronto
+9a25b086,Bottom,5.4,N,17,Y,N,24,N,3,N,Chicago
+9b3dc002,Middle,4.5,N,9,N,Y,14,N,3,N,Toronto
+9ba99466,Bottom,4.7,N,15,N,N,18,Y,0,N,Toronto
+9cd30309,Bottom,5,N,10,N,Y,22,N,0,Y,Orlando
+9d93b8ee,Bottom,4.9,N,10,N,Y,16,N,0,N,Toronto
+9e5880eb,Middle,5,N,11,N,N,32,Y,2,N,Toronto
+9e9c8bfe,Bottom,4.7,Y,21,Y,N,30,N,2,N,New York
+9f46360c,Bottom,4.8,N,11,N,N,20,N,0,N,Toronto
+9fd28b83,Middle,4.5,N,12,N,N,18,Y,2,N,Toronto
+a046b1e6,Bottom,4.7,N,10,N,N,28,N,0,N,New York
+a0d860bf,Middle,4.9,N,10,N,N,22,N,0,N,Chicago
+a12398aa,Top,4.5,N,17,N,Y,32,Y,3,Y,Orlando
+a1327b15,Top,5,N,10,N,N,26,Y,0,N,New York
+a18ecc4e,Bottom,4.9,N,17,Y,N,26,Y,5,Y,Orlando
+a1b4d288,Middle,4.5,N,9,N,N,20,N,0,N,Toronto
+a30b9f6a,Middle,4.4,N,13,N,Y,20,N,0,N,Toronto
+a34ae8d0,Middle,4.5,N,8,N,N,20,N,0,N,New York
+a56cb82f,Middle,5.2,N,11,N,N,16,N,0,N,Chicago
+a5ce1d54,Middle,3.9,N,11,N,N,18,N,0,N,New York
+a6b95dc0,Middle,5.3,N,14,N,Y,14,N,0,N,New York
+a74933aa,Middle,5.5,N,15,N,N,18,Y,0,N,New York
+a7aa3f59,Middle,4,N,11,N,N,16,N,0,N,New York
+a7d7afd6,Middle,5.3,N,14,N,Y,18,N,0,N,New York
+a8bd794c,Middle,4,N,10,N,N,20,N,0,N,New York
+a8ca8a73,Middle,4.3,N,11,N,N,20,N,0,N,Toronto
+a9ab88e3,Bottom,4.4,N,8,N,N,20,N,2,N,Toronto
+a9b7a050,Middle,5.2,N,12,N,N,30,Y,0,N,New York
+aa1d72a6,Middle,4.6,N,19,N,Y,22,N,0,N,Toronto
+aa3a9fb5,Middle,5.2,N,13,N,N,20,N,5,N,Toronto
+aaa3203e,Middle,5.1,N,13,Y,Y,28,Y,3,Y,Orlando
+aaa3534f,Top,4.6,N,13,Y,N,24,Y,0,N,New York
+aac0beb4,Bottom,4.7,N,13,N,Y,18,N,2,Y,San Francisco
+aac255af,Middle,4.9,N,8,N,N,22,Y,0,Y,Houston
+ab7e59c7,Bottom,6,N,17,Y,Y,28,Y,0,N,New York
+abba9ca3,Middle,4.8,N,11,N,N,16,Y,2,Y,Toronto
+acd7b4f7,Middle,4.6,N,10,N,N,18,N,2,N,Toronto
+acfde6d2,Bottom,5.3,N,11,N,N,12,N,0,N,Toronto
+ad8c9253,Bottom,4.6,N,13,N,N,36,Y,0,N,New York
+adb079b7,Bottom,4.6,N,11,N,Y,20,Y,3,N,New York
+adf4bdc2,Middle,4.7,N,10,N,Y,20,Y,0,Y,San Francisco
+b04e7a9f,Middle,4.3,N,10,N,N,20,N,2,N,Toronto
+b07a9228,Middle,5.4,N,14,N,Y,24,Y,0,Y,San Francisco
+b18466d5,Bottom,4.9,N,8,N,Y,20,N,0,N,Chicago
+b1a90e05,Top,4.7,N,13,N,N,16,N,0,N,Toronto
+b2724d1d,Middle,4.5,N,11,N,N,28,Y,0,Y,Chicago
+b27b4a98,Bottom,4.4,N,15,N,N,24,N,2,N,New York
+b286a11e,Middle,5,N,11,Y,Y,24,N,0,N,Chicago
+b366ed59,Middle,4.7,N,19,N,N,26,Y,0,N,New York
+b3725db2,Middle,4.4,N,9,N,N,16,N,0,N,Toronto
+b3b50d4a,Top,4.6,N,16,N,N,30,Y,0,N,New York
+b3c99902,Middle,4.9,N,8,N,N,18,N,0,N,Toronto
+b3ed4375,Bottom,5.4,N,11,N,Y,22,Y,0,Y,Chicago
+b4776b90,Middle,5,N,15,N,N,16,N,0,N,New York
+b4a7cd69,Bottom,5.7,N,20,Y,N,22,N,0,N,New York
+b544d9a5,Bottom,5.7,N,10,Y,N,22,N,0,N,New York
+b6888ee6,Middle,4.2,N,11,N,N,22,Y,0,Y,Chicago
+b6901f9b,Middle,4.6,N,11,N,N,16,Y,0,N,New York
+b6c48cdb,Middle,4.4,N,12,N,Y,16,N,0,Y,San Francisco
+b80beef0,Middle,4.8,N,11,Y,Y,24,N,2,Y,Toronto
+b8ada622,Top,4.2,N,12,N,N,18,Y,0,Y,San Francisco
+bab8cbf5,Middle,4.1,N,7,N,N,14,N,0,Y,Chicago
+bb457a36,Middle,4.6,N,11,N,N,24,Y,0,N,Orlando
+bb595127,Middle,4.2,N,10,N,N,22,Y,3,N,New York
+bbcdccb8,Middle,4.2,N,9,N,Y,16,N,0,N,Toronto
+bc571555,Middle,4.6,N,10,N,N,24,N,2,Y,Houston
+bc6a8480,Middle,4.4,N,13,N,N,24,Y,2,N,Toronto
+bc6a88b5,Middle,5.3,N,13,N,Y,20,Y,0,N,Chicago
+bc82a988,Middle,4.2,N,10,N,Y,16,Y,0,N,Chicago
+bcc26613,Middle,2,Y,6,N,N,24,Y,0,N,New York
+bd135c46,Middle,4.4,N,11,N,Y,20,N,2,Y,New York
+bd1fd772,Middle,4.7,N,11,N,N,24,N,0,N,Toronto
+bd895489,Middle,4.3,N,12,N,N,18,N,2,N,Toronto
+be8b6baa,Middle,4.9,N,19,N,N,26,Y,0,N,New York
+bef20aa4,Middle,4.3,N,17,N,N,14,N,0,N,New York
+bf0381d0,Middle,5.3,N,17,Y,N,30,Y,2,N,Toronto
+bf83b134,Middle,3.4,N,11,N,N,18,N,0,N,Toronto
+bf8c4621,Middle,3.4,Y,9,N,N,18,N,0,Y,Houston
+bf8fa362,Middle,4.6,N,10,N,N,16,N,0,N,New York
+c0225fe1,Middle,3.9,N,12,N,N,20,N,0,N,New York
+c08d54a7,Bottom,5.3,N,10,N,Y,18,N,0,Y,Toronto
+c0acd456,Middle,4.5,N,9,N,Y,24,N,0,Y,Houston
+c143012a,Middle,4.4,N,9,N,Y,22,N,2,N,Toronto
+c2939a84,Middle,4.9,N,11,N,N,22,Y,0,N,Toronto
+c2ed12f0,Middle,5.1,N,25,N,N,36,Y,0,N,New York
+c444de08,Bottom,4.6,N,10,N,N,28,N,0,N,Toronto
+c4578853,Bottom,4.6,N,10,N,N,12,N,0,Y,San Francisco
+c50b1a62,Middle,2.8,Y,11,N,N,22,Y,2,Y,Orlando
+c61db280,Middle,5.3,N,10,N,N,16,N,2,Y,Toronto
+c70d89a2,Middle,5,N,15,N,N,20,Y,2,N,Toronto
+c764744b,Middle,5.8,N,11,Y,Y,18,Y,0,Y,San Francisco
+c76ebafe,Middle,4.9,N,10,Y,N,22,Y,0,N,Toronto
+c77cc0c6,Middle,4.7,N,10,N,Y,22,Y,0,N,Toronto
+c848bdb0,Bottom,4.8,N,13,N,N,22,N,5,N,Toronto
+c8aaae9a,Middle,5,N,8,N,N,20,N,0,N,New York
+c8d12ae0,Middle,5.3,N,14,N,N,24,N,2,N,Toronto
+c8d3a9b4,Middle,4.7,N,8,N,N,26,Y,0,N,Toronto
+c922d25a,Middle,4.3,N,13,Y,N,22,Y,2,N,New York
+c999c3f5,Middle,4.4,N,11,N,N,18,N,0,N,Toronto
+cb192603,Middle,4.4,N,10,N,N,12,N,2,N,Toronto
+cbde52de,Middle,4.9,N,10,N,N,26,Y,2,Y,Chicago
+cc35ce30,Top,4,N,13,N,Y,26,Y,2,N,Toronto
+cd5064ed,Middle,4.7,N,14,N,N,18,N,0,N,Toronto
+cd60f70d,Bottom,4.3,N,12,N,N,20,N,2,N,New York
+cdd744e7,Bottom,4.5,N,9,N,N,20,N,0,N,Toronto
+ce617d7d,Bottom,4.6,N,11,N,N,12,N,0,N,New York
+ce686d71,Middle,4.8,N,10,N,Y,18,N,2,Y,Orlando
+d042ae66,Bottom,5,N,10,N,Y,18,N,2,Y,San Francisco
+d0711e00,Middle,4,N,9,N,N,30,N,2,Y,Houston
+d0b458b0,Middle,4.4,N,17,N,N,40,Y,2,N,New York
+d0f9c863,Middle,4.4,N,10,N,N,20,Y,0,Y,Chicago
+d10fe0e6,Middle,4.6,N,19,N,N,24,N,0,N,Toronto
+d1bc4b3f,Middle,4.6,N,10,N,Y,18,N,0,N,Toronto
+d1bde0f2,Middle,3.9,N,13,N,N,20,N,0,N,New York
+d1c67f53,Middle,5.1,N,15,Y,N,24,N,2,N,New York
+d1ed69af,Middle,4.6,N,16,N,N,20,N,2,N,New York
+d284613d,Middle,4.9,N,15,N,N,26,Y,0,N,Toronto
+d2960031,Bottom,4.8,N,10,N,N,14,N,0,N,Chicago
+d2e14cd8,Middle,5.1,N,14,N,N,26,N,0,N,New York
+d2e27e4d,Middle,2.9,Y,19,N,N,18,N,2,N,Toronto
+d37e7c84,Middle,3.7,N,17,N,N,22,N,2,N,Toronto
+d4f80cb0,Middle,4.6,N,13,N,N,26,Y,0,N,New York
+d500008c,Middle,5.5,N,12,Y,N,20,N,0,N,New York
+d5489fe2,Middle,5.5,N,13,N,Y,18,N,0,N,Chicago
+d550070a,Bottom,2.9,Y,10,N,N,30,Y,0,N,Toronto
+d581439c,Top,3.7,N,13,N,Y,22,Y,0,Y,Chicago
+d587089c,Top,4.7,N,9,N,Y,18,Y,0,N,Toronto
+d665821e,Middle,4.3,N,10,N,N,18,N,0,Y,Orlando
+d772499c,Top,4.7,N,15,N,N,26,Y,0,N,New York
+d80c241e,Middle,4.8,N,13,N,N,22,N,0,N,Chicago
+d852f146,Middle,5,N,13,Y,N,24,N,0,N,New York
+da5e8888,Middle,4.7,N,9,N,N,16,N,2,Y,San Francisco
+db037029,Middle,4,N,12,N,Y,18,N,2,N,Toronto
+dbba5286,Top,3.4,Y,13,N,N,22,Y,3,Y,Orlando
+dc87d51c,Middle,4.9,N,10,N,Y,16,Y,2,N,Chicago
+dcc07942,Middle,5,N,13,N,N,16,N,3,N,Toronto
+dceffd2b,Middle,5,N,12,N,N,20,N,0,N,Toronto
+dd3fe082,Middle,4,N,15,N,N,22,Y,0,N,New York
+dd6bf9fb,Middle,4.2,N,11,N,N,20,N,0,N,New York
+dde1999b,Middle,4.9,N,8,N,N,20,N,0,Y,Orlando
+dde23585,Middle,4.6,N,11,N,Y,20,N,2,Y,Houston
+df278b06,Middle,4.2,N,13,N,N,16,N,0,N,Toronto
+df686f1b,Top,5.1,N,17,N,N,20,N,0,N,Toronto
+df8ea053,Middle,4.7,N,8,N,N,12,Y,0,N,Toronto
+dfc6a217,Middle,4.4,N,15,N,Y,16,N,0,N,Toronto
+dff895b2,Middle,3.8,N,9,N,N,16,N,0,N,Toronto
+dffb138f,Middle,4.4,N,8,N,N,26,Y,2,N,Toronto
+e098cf31,Bottom,5,N,8,N,N,24,Y,0,Y,Toronto
+e0da8b59,Bottom,4.9,N,11,N,Y,22,N,2,Y,Orlando
+e101978a,Bottom,5.1,N,10,Y,N,22,N,0,N,New York
+e104e934,Middle,4.6,N,15,N,Y,20,N,0,Y,Houston
+e10c2095,Middle,5.3,N,12,N,Y,22,Y,2,N,New York
+e12db0d2,Bottom,4.7,N,14,N,N,24,Y,0,N,New York
+e1fe67f4,Middle,4.3,N,17,N,N,26,N,0,N,New York
+e22e5998,Middle,4.9,N,11,N,N,16,N,0,N,New York
+e24e3f73,Middle,4.7,Y,8,N,N,28,Y,0,N,Toronto
+e3375e89,Bottom,4.6,N,10,Y,N,18,N,0,N,New York
+e41b2548,Middle,4.4,N,11,N,N,18,N,0,N,New York
+e498c332,Middle,4.4,N,10,N,N,16,Y,0,N,New York
+e5d0994f,Bottom,4.9,N,9,N,N,22,N,0,N,Toronto
+e741dceb,Middle,4.1,N,13,N,Y,16,Y,2,N,New York
+e7a55a91,Bottom,5,N,10,N,N,16,N,0,N,Toronto
+e7a60e03,Middle,4.9,N,11,N,N,28,Y,0,N,Toronto
+e7f2d790,Middle,4.6,N,10,N,N,20,Y,2,N,Toronto
+e7f84291,Top,5,N,17,N,N,28,N,2,N,New York
+e81f635b,Top,4.7,N,21,N,N,32,Y,2,N,New York
+e947a5a0,Middle,5.6,N,12,N,N,20,Y,0,N,Toronto
+e9f0029e,Middle,5.2,N,17,N,N,26,Y,2,N,New York
+ea500b6e,Bottom,5,N,13,N,N,18,Y,0,N,Chicago
+ebaae4bd,Middle,3,Y,10,N,N,24,N,0,Y,Houston
+ec356208,Middle,4.3,N,14,N,N,28,Y,0,N,New York
+ed167920,Top,5,N,11,N,N,26,Y,2,N,New York
+ed2ad508,Middle,2.6,Y,11,N,N,22,N,0,Y,Houston
+ed5b1361,Middle,4.8,N,8,N,N,18,N,0,Y,Chicago
+ede55bd7,Top,3.7,N,8,N,N,14,N,0,N,Toronto
+ee6777fa,Middle,4.5,N,10,N,Y,24,N,2,Y,Toronto
+ee9febae,Bottom,4.8,N,13,N,N,22,N,0,N,New York
+eec4c425,Middle,4.3,N,8,N,N,14,Y,0,N,New York
+efb921f3,Bottom,4.5,N,14,N,Y,26,Y,2,Y,New York
+f04679c9,Middle,4.5,N,16,N,N,16,Y,0,N,New York
+f0560bcc,Middle,4.9,N,11,N,N,20,N,0,N,New York
+f0580354,Middle,2.8,Y,10,N,N,16,Y,0,N,Toronto
+f15a18ce,Middle,4.8,N,11,N,Y,16,N,2,Y,Houston
+f1b5d0a0,Middle,4.1,N,11,N,Y,18,N,0,Y,San Francisco
+f1c13d6c,Middle,4.8,N,13,N,N,36,Y,0,Y,Toronto
+f32c0cae,Top,4.5,N,8,N,Y,20,Y,2,N,Toronto
+f350611d,Bottom,4.6,N,11,N,N,24,N,2,Y,Chicago
+f3c5b8c3,Middle,4.2,N,11,N,N,24,N,0,N,New York
+f436dc91,Middle,4.6,N,13,N,N,22,Y,0,N,Toronto
+f48bce78,Top,5.4,Y,22,Y,N,24,N,0,N,New York
+f6992c92,Middle,4.7,N,13,N,N,26,Y,2,N,Toronto
+f7073349,Middle,2.4,Y,8,N,N,36,N,2,N,New York
+f7314e66,Middle,4.8,N,10,N,N,26,N,2,Y,Toronto
+f79e2067,Middle,4.1,N,9,N,N,22,Y,2,Y,Chicago
+f7a153a6,Bottom,3.7,N,11,N,N,18,N,0,N,Toronto
+f7ab67cc,Middle,4.6,N,14,N,N,18,N,0,N,New York
+f7f9c622,Bottom,5.1,N,14,N,N,26,Y,2,N,New York
+f83746c6,Middle,4.6,N,11,N,Y,18,N,2,N,New York
+f869c0ad,Top,4,N,12,N,Y,20,N,0,N,New York
+f8cb42cf,Top,4.1,N,11,N,N,18,Y,0,Y,San Francisco
+f8ced0df,Top,5,N,11,N,N,18,N,0,N,New York
+fa29684c,Middle,5.2,N,13,N,N,22,N,0,N,New York
+fa47d7d0,Middle,4.5,N,10,N,N,16,N,2,N,Toronto
+fab3198a,Middle,4.1,N,20,N,N,28,Y,2,N,Toronto
+faf22ce9,Middle,5.1,N,10,N,N,16,Y,0,N,New York
+fb5da7fe,Middle,4.2,N,19,N,N,28,Y,2,N,New York
+fbc09a16,Bottom,4.4,N,15,N,N,30,N,0,N,New York
+fc074eff,Bottom,4.5,N,11,N,Y,24,Y,0,N,New York
+fccc1bc6,Middle,2.8,Y,10,N,N,20,N,0,Y,San Francisco
+fcd29ebc,Top,5.5,N,13,N,N,28,Y,0,N,Toronto
+fd38c592,Middle,4.5,N,8,N,Y,16,N,0,N,Toronto
+fd3f0257,Middle,3.5,N,11,N,N,22,Y,0,N,New York
+fd4e88c0,Middle,4.6,N,10,N,N,22,N,0,N,Toronto
+fdf590b8,Top,3.7,N,12,N,N,16,N,0,N,New York
+fef7fc93,Bottom,5.2,N,13,N,Y,28,N,2,N,Toronto
+ff6f866d,Bottom,4.9,N,13,N,Y,22,Y,0,N,Chicago
+ff8d64bc,Middle,5.2,N,12,Y,N,18,N,2,N,Toronto
+fff52bc6,Middle,4.7,N,15,N,N,16,N,2,Y,San Francisco
